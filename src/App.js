@@ -9,6 +9,9 @@ function App() {
         <p>
           Lax temp website
         </p>
+        <p>
+          Lets see if updating works!!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
