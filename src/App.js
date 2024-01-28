@@ -10,7 +10,7 @@ function App() {
           Lax temp website
         </p>
         <p>
-          Lets see if updating works!!
+        ITS OFFICIAL
         </p>
         <a
           className="App-link"
