@@ -12,7 +12,7 @@ function App() {
           Lax temp website
         </p>
         <p>
-        ITS OFFICIAL yo
+        ITS OFFICIAL yes?
         </p>
         <a
           className="App-link"
